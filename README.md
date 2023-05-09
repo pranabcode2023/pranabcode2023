@@ -22,7 +22,3 @@ I've carried out projects with JavaScript, React, and TypeScript and are familia
 ![](https://github-contributor-stats.vercel.app/api?username=pranabcode2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
-[![](https://www.linkedin.com/in/pranab-kumar-pramanik-93723b264/)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
