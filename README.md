@@ -1,6 +1,5 @@
 # 💫 About Me:
-I've carried out projects with JavaScript, React, and TypeScript and are familiar with web programming. For managing cloud media and databases, I've worked with Cloudinary and MongoDB.
-
+I've gained a solid foundation in fundamental programming languages including HTML, CSS, JavaScript, React, TypeScript, and MERN-Stack (MongoDB, Express, React, and Node.js). I've also learned how to use MERN-Stack, Next.js, and GraphQL to construct web apps and integrate databases and APIs. I've also become more comfortable with the Agile Scrum structure, which has given me the ability to flourish in a cooperative, self-managed team atmosphere.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranab-kumar-pramanik-93723b264/) 
