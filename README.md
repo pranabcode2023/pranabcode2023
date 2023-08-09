@@ -4,7 +4,7 @@ I've gained a solid foundation in fundamental programming languages including HT
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranab-kumar-pramanik-93723b264/) 
 <br/>
-[![#🌐 Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://pranab-portfolio.netlify.app) 
+[![## 🌐 Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://pranab-portfolio.netlify.app) 
 
 
 
